@@ -3,26 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcarce&label=Profile%20views&color=0e75b6&style=flat" alt="danielcarce" /> </p>
 
-- 🌱 I’m currently learning **React, Typescript.**
+- 🌱 I’m currently learning **C#.**
 
 - 👨‍💻 All of my projects are available at [github.com/danielcarce](github.com/danielcarce)
 
-- 💬 Ask me about **react, native api from browser.**
+- 💬 Ask me about **React, React Native and Native APIs in Browsers.**
 
 - 📫 How to reach me **daniel.camposarce@gmail.com**
 
-- ⚡ Fun fact **Read for always improve my skills.**
+- ⚡ Fun fact **Star Wars Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/danielcarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="danielcarce" height="30" width="40" /></a>
-<a href="https://dev.to/danielcarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="danielcarce" height="30" width="40" /></a>
 <a href="https://twitter.com/danielcarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielcarce" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/danielcarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielcarce" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/danielcarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="danielcarce" height="30" width="40" /></a>
-<a href="https://codesandbox.com/danielcarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="danielcarce" height="30" width="40" /></a>
-<a href="https://instagram.com/dca_consult" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dca_consult" height="30" width="40" /></a>
-<a href="https://medium.com/@danielcarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@danielcarce" height="30" width="40" /></a>
+<a href="https://instagram.com/dsoftware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dca_consult" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
