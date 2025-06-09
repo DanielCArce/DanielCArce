@@ -4,9 +4,8 @@
 
 ## 🛠️ Tecnologías y Herramientas
 - **Frontend**: React, React Native, TypeScript
-- **Backend**: .NET Core, C#
-- **Bases de datos**: SQL Server, PostgreSQL
-- **Herramientas de desarrollo**: Visual Studio, VS Code, Git, Docker.
+- **Backend**: .NET Core, C# & NodeJs.
+- **Bases de datos**: SQL Server, PostgreSQL, MongoDB.
 - **Otros**: REST APIs, Unit Testing, CI/CD
 
 ## 🌟 Lo que me define
